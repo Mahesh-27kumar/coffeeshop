@@ -1,0 +1,201 @@
+.one{
+    background-image: url(headingimg.jpg);
+    background-size: 100% 500px;
+    height: 500px;
+    width: 100%;
+    border-radius: 50px;
+}
+.addone{
+    color: azure;
+    text-align: center;
+    font-family: curvefont;
+    padding-top: 100px;
+    padding-left: 400px;
+    font-size: xx-large;
+    font-weight: 900;
+}
+@font-face {
+    font-family: curvefont;
+    src: url(Spring\ Nature.otf);
+}
+@font-face {
+    font-family: title;
+    src: url(Corner\ Cafe.ttf);
+}
+@font-face {
+    font-family: paragraph;
+    src: url(KidsCute-DemoVersion-Regular.otf);
+}
+.addtwo{
+    color: azure;
+    text-align: center;
+    font-family: curvefont;
+    padding-top: 10px;
+    padding-left: 500px;
+
+}
+.addthree{
+    color: azure;
+    text-align: center;
+    font-family: curvefont;
+    padding-top: 10px;
+    padding-left: 600px;
+}
+.cofe{
+    color: azure;
+    text-align: center;
+    font-family: curvefont;
+    padding-top: 100px;
+    padding-left: 700px;
+}
+.title{
+    background-color:#6F4E37 ;
+    height: 50px;
+    text-align: center;
+    font-family: title;
+    font-size:50px;
+    font-weight: 900;
+    border-radius: 50px;
+}
+pre{
+    font-family: fantasy;
+    position: sticky; top: 5px;
+}
+.home{
+    background-color: #6F4E37;
+    height: 500px;
+    width: 100%;
+    border-radius: 50px;
+}
+.home img{
+    height: 400px;
+    width: 40%;
+    padding-top: 50px;
+    border-radius: 10px;
+    border-color: #6F4E37;
+    float: left;
+
+}
+.home p{
+  padding-left: 100px;
+  padding-top: 150px;
+  text-align: justify;
+ font-family: paragraph;
+ letter-spacing: 2px;
+ word-spacing: 1px;
+ line-height: 25px;
+
+ 
+}
+span{
+    color: azure;
+}
+.para h1{
+    height: 50px;
+    text-align: center;
+    background-color: #6F4E37;
+    font-family: title;
+    font-size: 50px;
+    border-radius: 50px;
+}
+.franchise{
+    background-color: #6F4E37;
+    background-size: 100% 600px;
+    height:600px;
+    width: 100%;
+    border-radius: 50px;
+}
+.france{
+    float: left;
+    text-align: justify;
+    font-family: paragraph;
+    font-size: 25px;
+}
+.franchise img{
+    height: 300px;
+    width: 70%;
+    border-radius: 50px;
+
+}
+.outlet{
+    height: 50px;
+    text-align: center;
+    background-color: #6F4E37;
+    font-family: title;
+    font-size: 30px;
+    border-radius: 50px;
+}
+.outimg{
+    background-color: #6F4E37;
+    background-size: 100% 1200px;
+    height: 12D00px;
+    width: 100%;  
+    border-radius: 50px;
+}
+.outimg h1{
+    text-align: center;
+    font-family: title;
+    font-size: xx-large;
+    padding-top: 10px;
+    font-weight: 700;
+
+}
+.out1 img{
+    padding-left: 100px;
+    border-radius: 30px;
+
+}
+.out1 p{
+    text-align: justify;
+    padding-left: 50px;
+    font-family: paragraph;
+    line-height: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+.out1 p1{
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mars img{
+    padding-left: 100px;
+    border-radius: 30px;
+}
+.mars p{
+    text-align: justify;
+    padding-left: 50px;
+    font-family: paragraph;
+    line-height: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+.thenorth img{
+    padding-left: 100px;
+    border-radius: 30px;
+}
+.thenorth p{
+    text-align: justify;
+    padding-left: 50px;
+    font-family: paragraph;
+    line-height: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    border-radius: 50px;
+
+}
+.contact{
+    background-color: #6F4E37;
+    height: 50px;
+    margin-top: 10px;
+    font-family: title;
+    text-align: center;
+font-size: 20px;
+border-radius: 50px;
+
+}
+footer{
+    background-color:#6F4E37;
+    height: 60px;
+    text-align: center;
+    font-family: paragraph;
+}
